@@ -1,0 +1,3 @@
+[submodule "dockertomcat"]
+	path = dockertomcat
+	url = https://github.com/suchiksagar/dockertomcat
